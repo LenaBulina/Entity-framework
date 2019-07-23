@@ -1,0 +1,37 @@
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\Entity.exe.config
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\Entity.exe
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\Entity.pdb
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\EntityFramework.dll
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\EntityFramework.xml
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\obj\Debug\Entity.exe
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\obj\Debug\Entity.pdb
+\\fs\Преподаватели\Колодочка Ян\public\EKO-17-П1\ADO.NET\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.exe.config
+\\fs\Преподаватели\Колодочка Ян\public\EKO-17-П1\ADO.NET\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.exe
+\\fs\Преподаватели\Колодочка Ян\public\EKO-17-П1\ADO.NET\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.pdb
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.exe.config
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.exe
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.pdb
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.exe
+C:\Users\Kolodochka_y\Desktop\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.pdb
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.exe.config
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.exe
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.pdb
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.dll
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.xml
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.exe
+C:\Users\aries\Downloads\Telegram Desktop\31.03.19\5.EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.pdb

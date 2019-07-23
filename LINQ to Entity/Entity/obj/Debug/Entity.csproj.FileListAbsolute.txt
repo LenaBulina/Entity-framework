@@ -1,0 +1,33 @@
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\Entity.exe.config
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\Entity.exe
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\Entity.pdb
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\EntityFramework.dll
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\EntityFramework.xml
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\obj\Debug\Entity.exe
+c:\users\kolodochka_y.od\source\repos\Entity\Entity\obj\Debug\Entity.pdb
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.exe.config
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.exe
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\bin\Debug\Entity.pdb
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.exe
+C:\Users\Kolodochka_y.OD\Desktop\EntityFramework\Entity 1 to many\Entity\obj\Debug\Entity.pdb
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\bin\Debug\Entity.exe.config
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\bin\Debug\Entity.exe
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\bin\Debug\Entity.pdb
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\obj\Debug\Entity.exe
+C:\Users\Kolodochka_y\Desktop\6.LINQ to Entity\Entity 1 to many\Entity\obj\Debug\Entity.pdb
